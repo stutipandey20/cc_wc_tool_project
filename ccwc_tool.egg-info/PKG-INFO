@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ccwc_tool
+Version: 0.1
+Summary: Custom wc command-line tool
+Home-page: https://github.com/stutipandey20/wc_tool_project
+Author: Stuti Pandey
+Author-email: stutip74@gmail.com
+Requires-Dist: argparse
+Requires-Dist: pytest

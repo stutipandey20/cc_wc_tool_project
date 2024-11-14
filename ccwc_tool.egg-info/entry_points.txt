@@ -1,0 +1,2 @@
+[console_scripts]
+ccwc = wc_tool.ccwc:main
