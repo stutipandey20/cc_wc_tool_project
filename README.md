@@ -91,3 +91,8 @@ python wc_tool/wc.py -l -w example.txt
 
 5. Step 5: Document Setup
     Create a README.md to explain how to set up and use the project, making it easier for others (or future you) to get started.
+
+
+## LICENSE
+
+[MIT LICENSE](LICENSE)
