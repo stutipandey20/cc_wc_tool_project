@@ -1,5 +1,8 @@
 # CC -> Build Your Own wc Tool
 
+Inspired by Coding Challenges by John Crickett
+https://codingchallenges.fyi/challenges/challenge-wc
+
 This challenge is to build your own version of the Unix command line tool wc!
 
 All about building own wc:
